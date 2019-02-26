@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^6.2.0",
-    "request": "^2.73.0"
+    "request": "^2.73.0",
+    "yargs": "^13.2.1"
   }
 }
